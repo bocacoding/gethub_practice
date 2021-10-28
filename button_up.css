@@ -1,0 +1,44 @@
+.search{
+    border-radius: 100px;
+    background-color: rgb(230, 230, 230);
+    color: teal;
+    border: 2px solid teal;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 13px;
+    margin-left: 69px;
+}
+
+.plus{
+    color: white;
+    background-color: turquoise;
+    border-radius: 300px;
+    width: 40px;
+    height: 40px;
+    font-size: 21px;
+    border-style: hidden;
+    margin-bottom: 13px;
+    margin-left: 69px;
+}
+
+.create{
+    color:white;
+    background-color: blue;
+    margin-left: 69px;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: thin;
+    border-width: 3px;
+    border-color: black;
+    box-shadow: 10px 5px black;
+}
+
+.donate{
+    height: 30px;
+    width: 60px;
+    background-color: white;
+    color: purple;
+}
